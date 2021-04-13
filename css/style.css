@@ -26,19 +26,6 @@
   padding: 50px 30px 30px 30px;
 }
 
-.learnMore {
-  background-color: white;
-  color: hsl(31, 77%, 52%);
-  border-radius: 20px;
-  border-color: white;
-}
-
-.learnMore:hover {
-  background-color: hsl(31, 77%, 52%);
-  color: white;
-  border-color: white;
-}
-
 .sedans-col {
   background-color: hsl(31, 77%, 52%);
   color: hsla(0, 0%, 100%, 0.75);
@@ -46,7 +33,6 @@
   border-radius: 5px 0 0 5px;
   height: 500px;
 }
-
 
 .suvs-col {
   background-color: hsl(184, 100%, 22%);
@@ -60,6 +46,27 @@
   padding: 15px;
   border-radius: 0 5px 5px 0;
 }
+
+.learnMoreHover:hover {
+  background-color: Transparent;
+  color: white;
+  border-color: white;
+}
+
+.sedansLearnMore {
+  background-color: white;
+  color: hsl(31, 77%, 52%);
+  border-radius: 20px;
+  border-color: white;
+}
+
+.suvsLearnMore {
+  background-color: white;
+  color: hsl(184, 100%, 22%);
+  border-radius: 20px;
+  border-color: white;
+}
+
 
 /* .container {
 height: 350px;
