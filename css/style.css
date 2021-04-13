@@ -1,0 +1,51 @@
+.body {
+  background-color: hsl(0, 0%, 95%);
+}
+
+.wrapper {
+  margin: 10%;
+}
+
+.sedans-col {
+  background-color: hsl(31, 77%, 52%);
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 15px;
+  border-radius: 5px 0 0 5px;
+}
+
+.suv-col {
+  background-color: hsl(184, 100%, 22%);
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 15px;
+}
+
+.luxury-col {
+  background-color: hsl(179, 100%, 13%);
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 15px;
+  border-radius: 0 5px 5px 0;
+}
+
+/* .container {
+height: 350px;
+width: 30%;
+border: 1px solid black;
+overflow:hidden;
+} */
+
+/*
+.sedans-container {
+  padding: 30px;
+  background-color: orange;
+} */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
