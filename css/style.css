@@ -9,6 +9,15 @@
   margin: 10%;
 }
 
+.container:hover {
+  position: relative;
+ -webkit-transform: scale(1.05);
+ -ms-transform: scale(1.05);
+ -o-transform: scale(1.05);
+ transform: scale(1.05);
+ z-index: 1000;
+}
+
 .car-img {
   padding: 30px;
 }
