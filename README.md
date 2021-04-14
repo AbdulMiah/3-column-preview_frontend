@@ -32,13 +32,13 @@ Users should be able to:
 ### Screenshot For My Attempt
 
 - Desktop View
-![My Attempt for 3-column preview card - desktop view](./images/myattempt-desktop-view.jpg)
+![My Attempt for 3-column preview card - desktop view](./images/myattempt-desktop-view.png)
 
 - Learn More Button Hover
-![My Attempt for 3-column preview card - learn more hover](./images/myattempt-desktop-learnMoreHover.jpg)
+![My Attempt for 3-column preview card - learn more hover](./images/myattempt-desktop-learnMoreHover.png)
 
 - Mobile View
-![My Attempt for 3-column preview card - mobile view](./images/myattempt-mobile-view.jpg)
+![My Attempt for 3-column preview card - mobile view](./images/myattempt-mobile-view.png)
 
 
 ### Links
