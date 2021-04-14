@@ -9,6 +9,10 @@
   margin: 10%;
 }
 
+.container {
+  padding: 10px;
+}
+
 .container:hover {
   position: relative;
   box-shadow: 0 0 10px #808080;
