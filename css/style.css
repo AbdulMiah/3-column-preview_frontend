@@ -11,11 +11,12 @@
 
 .container:hover {
   position: relative;
- -webkit-transform: scale(1.05);
- -ms-transform: scale(1.05);
- -o-transform: scale(1.05);
- transform: scale(1.05);
- z-index: 1000;
+  box-shadow: 0 0 10px #808080;
+   -webkit-transform: scale(1.05);
+   -ms-transform: scale(1.05);
+   -o-transform: scale(1.05);
+   transform: scale(1.05);
+   z-index: 1000;
 }
 
 .car-img {
@@ -29,7 +30,7 @@
 }
 
 .desc-row {
-  font-family: 'Lexend Deca', sans-serif;
+  /* font-family: 'Lexend Deca', sans-serif; */
   padding: 40px;
   font-size: 15px;
 }
