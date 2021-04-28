@@ -8,17 +8,13 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshot](#screenshot-for-my-attempt)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -89,4 +85,3 @@ In the future, I could focus on adding more elements/items for the background. A
 ## Author
 
 - Frontend Mentor - [@AbdulMiah](https://www.frontendmentor.io/profile/AbdulMiah)
-<!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
