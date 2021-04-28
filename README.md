@@ -77,9 +77,8 @@ For CSS, I learnt that you can change CSS styles according to the width of the b
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In the future, I could focus on adding more elements/items for the background. At the moment, the background is white and plain, and I could have added extra elements to make it more interesting. This will help me improve my creativity and in the future, I could tackle projects with a more creative/innovative approach.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
