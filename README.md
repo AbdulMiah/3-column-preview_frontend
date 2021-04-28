@@ -9,6 +9,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot-for-my-attempt)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -45,10 +46,10 @@ Users should be able to:
 ![My Attempt for 3-column preview card - mobile view](./images/myattempt-mobile-view.png)
 
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [View Solution](https://abdulmiah.github.io/AbdulMiah_3-col-preview.github.io/)
+<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
